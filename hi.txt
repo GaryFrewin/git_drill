@@ -2,7 +2,7 @@ don't patch
 this
 
 Some
-
+"debug comment 2"
 New
 
 Change
