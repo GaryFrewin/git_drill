@@ -1,8 +1,13 @@
 don't patch
 this
+The actual change after debugging
 
 Some
-
+"debug comment 2"
 New
 
 Change
+
+post report spec change
+
+"debug comment"
